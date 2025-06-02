@@ -18,7 +18,6 @@ Bu proje, Terraform kullanarak AWS (Amazon Web Services) üzerinde altyapı sağ
             *   [`tenant/dev/core/vpc.tf`](tenant/dev/core/vpc.tf): VPC modülünü kullanarak VPC kaynaklarını tanımlar.
 *   [`terraform.tfstate`](terraform.tfstate): Terraform'un yönettiği altyapının durumunu izleyen dosya.
 *   [`.terraform.lock.hcl`](.terraform.lock.hcl): Terraform bağımlılıklarını kilitleyen dosya.
-*   [`graph.dot`](tenant/dev/graph.dot), [`graph.png`](tenant/dev/graph.png): Terraform planının görsel temsili için oluşturulan dosyalar.
 
 ## Ne Yapar:
 
