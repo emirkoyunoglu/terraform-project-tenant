@@ -16,8 +16,6 @@ Bu proje, Terraform kullanarak AWS (Amazon Web Services) üzerinde altyapı sağ
             *   [`tenant/dev/core/userdata.sh`](tenant/dev/core/userdata.sh): EC2 örnekleri başlatıldığında çalıştırılacak kullanıcı verisi betiği.
             *   [`tenant/dev/core/variables.tf`](tenant/dev/core/variables.tf): Geliştirme ortamı çekirdek yapılandırmasına özgü değişkenleri tanımlar.
             *   [`tenant/dev/core/vpc.tf`](tenant/dev/core/vpc.tf): VPC modülünü kullanarak VPC kaynaklarını tanımlar.
-*   [`terraform.tfstate`](terraform.tfstate): Terraform'un yönettiği altyapının durumunu izleyen dosya.
-*   [`.terraform.lock.hcl`](.terraform.lock.hcl): Terraform bağımlılıklarını kilitleyen dosya.
 
 ## Ne Yapar:
 
