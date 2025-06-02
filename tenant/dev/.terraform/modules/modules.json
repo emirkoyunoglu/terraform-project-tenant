@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"core","Source":"./core","Dir":"core"},{"Key":"core.core_vpc","Source":"../../../modules/terraform-aws-vpc","Dir":"../../modules/terraform-aws-vpc"},{"Key":"core.ec2-instance-bootcamp","Source":"../../../modules/terraform-aws-ec2","Dir":"../../modules/terraform-aws-ec2"}]}
