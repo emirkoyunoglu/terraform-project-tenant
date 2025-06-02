@@ -1,0 +1,16 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Crash log files
+*.backup
+*.crash.log
+
+# Ignore plugin cache
+.terraform/plugins/
+
+# Ignore credentials
+*.tfvars
+*.tfvars.json
