@@ -30,4 +30,4 @@ Bu yapı, altyapıyı kod olarak yönetmeyi (Infrastructure as Code - IaC) sağl
 
 ## Projenin Şeması
 
-![Projenin Şeması](tenant/dev/graph.png)
+![Projenin Şeması](graph.png)
