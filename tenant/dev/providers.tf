@@ -1,7 +1,7 @@
 ##### Define Terraform State Backend and Must Providers
 terraform {
   backend "s3" {
-    bucket  = "tf-remote-backend-cloudandcloud-5533"
+    bucket  = "s3-bucket-name"
     key     = "proje/dev/infrastructure.tfstate"
     profile = "default"
     region  = "us-east-1"
